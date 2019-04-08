@@ -4,3 +4,4 @@
 
 1. HelloWorld : Prints Hello World!
 2. functions : Introduction to functions and some examples of functions
+3. Lists : Introduction to Lists and how to use them
