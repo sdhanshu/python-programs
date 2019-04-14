@@ -1,6 +1,6 @@
-# This is called a While loop: 
-
 print("\nSum of all the numbers till 5 using a While loop: \n")
+
+# This is called a While loop: 
 
 total = 0
 x = 1
