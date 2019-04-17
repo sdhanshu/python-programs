@@ -8,3 +8,4 @@
 4. Loops : Introduction to For Loops and Range 
 5. WhileLoops : Introduction to While Loops and how to use them
 6. BreakStatements : Introductions to Break Statements and how to use them
+7. PythonProblem : It is just a simple Python Problem
