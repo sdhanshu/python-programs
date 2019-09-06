@@ -11,7 +11,7 @@ print("\nThis is the List with a for loop: \n")
 for element in a :     # This means for each element of list a
     print(element)     # do the following, which is printing list a
                        # Also in this loop, element is something we can choose
-                       # We can name it anythium till 50 usingngum till 50 using
+                       # We can name it anything 
 
 # If you want to add the elements of a list using for loop
 
@@ -24,7 +24,7 @@ print(b)
 total = 0
 
 for element in b:
-    total = total + element
+    total += element
 
 
 
